@@ -3,3 +3,9 @@ theme: jekyll-theme-leap-day
 
 title: [Cub Scout Pack 335]
 description: [Do your best!]
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
